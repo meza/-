@@ -32,3 +32,18 @@ and use bash to iterate through them. If so... I'm sorry.
 
 As for the rest of us:
 Always be vigilant about fallback data, and embrace the inevitable rise of the emojis.
+
+# Update
+
+GitHub got back to me with the following, amazing message:
+
+>Hey Meza,
+>Thanks for writing in and sorry we couldn't help you today with trolling your co-worker :-)
+>We actually convert the emoji to a dash on purpose. You should have seen a warning message before creation but maybe you missed it.
+>
+>Have a great day and let me know if there's anything else we can help you with!
+>
+>Cheers
+>Stacey 
+
+- Thank you Stacey for the message, and I'm relieved that I didn't cause any headaches :)
