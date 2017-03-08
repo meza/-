@@ -22,7 +22,7 @@ command:
 
 Now if you don't know why that's hilarious, it's because that exact command means _"Change to the previous directory you were in"_
 
-There I was chuckling baout how GitHub trolled me.
+There I was chuckling about how GitHub trolled me.
 
 # What now?
 
